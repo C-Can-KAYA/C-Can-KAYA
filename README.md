@@ -21,4 +21,4 @@
 
 <p> <img align="center " src="https://github-readme-stats.vercel.app/api?username=c-can-kaya&show_icons=true&locale=en" alt="c-can-kaya" /></p>
 
-<p> <img align = "center" src = "https://github-readme-streak-stats.herokuapp.com/?user=c-can-kaya&" alt = "c-can-kaya" /></p>
+<p> <img align = "center" src = "https://github-readme-streak-stats.herokuapp.com/?user=c-can-kaya" alt = "c-can-kaya" /></p>
